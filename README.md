@@ -14,6 +14,6 @@ My project uses the basic feature of IOT i.e its connectivity and networking fea
 
 For a very large scale program we can actually amplify the signal connectivity for the GPS and then we can get the live location of the large number of the vehicles directly and all at the same time together. We can even add a system to actually provide an alert message which would be sent to the organisations system controlling the whole system such that when there is  certain change in the route of th e registered vehicle such that they can track any discrepancies. For the crime forensics we can use this system to track a vehicles live location which has been abandoned and which has been used or is connected to some kind of crime We can aalso use this system to track any outside vehicke from other parts of the world that tries to breach into our country.
 
-##### How I created the project 
+##### Conclusion 
 
-I used powerpoint to create my slides and circuit.io to create my circuit diagram. I am not very much familiar with arduino coding but I am a fast learner and I am eager to learn it with from ROBOISM, so I took huge help of internet for the coding part but other than that I tried do everything by myself.
+I used powerpoint to create my slides and circuit.io to create my circuit diagram. I am not very much familiar with arduino coding but I am a fast learner and I am eager to learn it with from ROBOISM, so I took huge help of internet for the coding part but other than that I tried do everything by myself. I really hope to get selected for this wonderful club. Thank you for providing me this opportunity.
